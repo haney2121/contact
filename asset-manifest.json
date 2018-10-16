@@ -1,15 +1,15 @@
 {
-  "main.css": "/contact-manager/static/css/main.e53e3a30.chunk.css",
-  "main.js": "/contact-manager/static/js/main.e170e83b.chunk.js",
-  "main.js.map": "/contact-manager/static/js/main.e170e83b.chunk.js.map",
-  "static/css/1.7a1d84a3.chunk.css": "/contact-manager/static/css/1.7a1d84a3.chunk.css",
-  "static/js/1.1b85a2b2.chunk.js": "/contact-manager/static/js/1.1b85a2b2.chunk.js",
-  "static/js/1.1b85a2b2.chunk.js.map": "/contact-manager/static/js/1.1b85a2b2.chunk.js.map",
-  "runtime~main.js": "/contact-manager/static/js/runtime~main.2b8fdbf7.js",
-  "runtime~main.js.map": "/contact-manager/static/js/runtime~main.2b8fdbf7.js.map",
-  "static/css/1.7a1d84a3.chunk.css.map": "/contact-manager/static/css/1.7a1d84a3.chunk.css.map",
-  "static/css/main.e53e3a30.chunk.css.map": "/contact-manager/static/css/main.e53e3a30.chunk.css.map",
-  "index.html": "/contact-manager/index.html",
-  "precache-manifest.e476e41b01b53822267bf6cb1808ecf6.js": "/contact-manager/precache-manifest.e476e41b01b53822267bf6cb1808ecf6.js",
-  "service-worker.js": "/contact-manager/service-worker.js"
+  "main.css": "/contact/static/css/main.35e4a65c.chunk.css",
+  "main.js": "/contact/static/js/main.e7912ad5.chunk.js",
+  "main.js.map": "/contact/static/js/main.e7912ad5.chunk.js.map",
+  "static/css/1.77d49ddb.chunk.css": "/contact/static/css/1.77d49ddb.chunk.css",
+  "static/js/1.3a93847f.chunk.js": "/contact/static/js/1.3a93847f.chunk.js",
+  "static/js/1.3a93847f.chunk.js.map": "/contact/static/js/1.3a93847f.chunk.js.map",
+  "runtime~main.js": "/contact/static/js/runtime~main.fbf82b8c.js",
+  "runtime~main.js.map": "/contact/static/js/runtime~main.fbf82b8c.js.map",
+  "static/css/1.77d49ddb.chunk.css.map": "/contact/static/css/1.77d49ddb.chunk.css.map",
+  "static/css/main.35e4a65c.chunk.css.map": "/contact/static/css/main.35e4a65c.chunk.css.map",
+  "index.html": "/contact/index.html",
+  "precache-manifest.5a98c2e4a639fda6eabadc189648f73d.js": "/contact/precache-manifest.5a98c2e4a639fda6eabadc189648f73d.js",
+  "service-worker.js": "/contact/service-worker.js"
 }
